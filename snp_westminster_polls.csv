@@ -1,0 +1,253 @@
+"","date","pollster","snp"
+"1",2025-12-03,"Ipsos[341]",0.33
+"2",2025-09-25,"Norstat[342]",0.31
+"3",2025-09-21,"Find Out Now[343]",0.3
+"4",2025-09-16,"Survation[344]",0.35
+"5",2025-09-01,"More in Common[345]",0.31
+"6",2025-06-19,"YouGov[346][failed verification]",0.29
+"7",2025-06-18,"Ipsos[347]",0.31
+"8",2025-05-30,"Norstat[348]",0.31
+"9",2025-05-05,"Survation[349]",0.32
+"10",2025-04-22,"Survation[350]",0.33
+"11",2025-03-03,"YouGov[351][failed verification]",0.32
+"12",2025-01-20,"Find Out Now[352]",0.31
+"13",2025-01-14,"Norstat[353]",0.32
+"14",2025-01-13,"Survation[354]",0.33
+"15",2024-12-24,"Find Out Now[355]",0.34
+"16",2024-12-06,"Norstat[357]",0.31
+"17",2024-11-15,"Survation[358]",0.31
+"18",2024-11-01,"Norstat[359]",0.3
+"19",2024-09-13,"Survation[360]",0.31
+"20",2024-09-11,"Opinium[361]",0.32
+"21",2024-08-22,"Norstat[363]",0.29
+"22",2024-07-02,"Savanta",0.34
+"23",2024-06-28,"More in Common",0.3
+"24",2024-06-27,"Redfield & Wilton",0.32
+"25",2024-06-26,"Norstat",0.31
+"26",2024-06-25,"YouGov",0.29
+"27",2024-06-25,"Survation",0.31
+"28",2024-06-25,"Savanta",0.34
+"29",2024-06-18,"YouGov",0.31
+"30",2024-06-18,"Savanta",0.33
+"31",2024-06-14,"Norstat",0.3
+"32",2024-06-10,"Opinium",0.34
+"33",2024-06-09,"Ipsos",0.36
+"34",2024-06-07,"YouGov",0.3
+"35",2024-06-02,"Redfield & Wilton",0.29
+"36",2024-05-28,"Savanta",0.33
+"37",2024-05-27,"Survation",0.32
+"38",2024-05-25,"More in Common",0.3
+"39",2024-05-17,"YouGov",0.29
+"40",2024-05-09,"Redfield & Wilton",0.31
+"41",2024-05-08,"Savanta",0.33
+"42",2024-05-03,"Norstat",0.29
+"43",2024-04-29,"YouGov",0.33
+"44",2024-04-12,"Norstat",0.32
+"45",2024-04-07,"Redfield & Wilton",0.32
+"46",2024-04-02,"YouGov",0.31
+"47",2024-03-11,"Redfield & Wilton",0.34
+"48",2024-02-20,"Survation",0.38
+"49",2024-02-04,"Redfield & Wilton",0.33
+"50",2024-01-31,"Ipsos",0.39
+"51",2024-01-25,"Norstat",0.33
+"52",2024-01-25,"Survation",0.36
+"53",2024-01-11,"Redfield & Wilton",0.35
+"54",2023-11-27,"Redfield & Wilton",0.34
+"55",2023-11-26,"Ipsos",0.4
+"56",2023-10-30,"Redfield & Wilton",0.32
+"57",2023-10-25,"YouGov",0.32
+"58",2023-10-11,"Savanta",0.35
+"59",2023-10-06,"YouGov",0.33
+"60",2023-10-05,"Redfield & Wilton",0.34
+"61",2023-09-14,"Opinium",0.37
+"62",2023-09-13,"YouGov",0.38
+"63",2023-09-04,"Redfield & Wilton",0.35
+"64",2023-08-18,"Survation",0.37
+"65",2023-08-08,"YouGov",0.36
+"66",2023-08-06,"Redfield & Wilton",0.37
+"67",2023-07-02,"Redfield & Wilton",0.35
+"68",2023-06-28,"Survation",0.37
+"69",2023-06-15,"Panelbase",0.34
+"70",2023-06-14,"Savanta",0.38
+"71",2023-06-13,"YouGov",0.33
+"72",2023-06-05,"Redfield & Wilton",0.37
+"73",2023-05-21,"Ipsos MORI",0.41
+"74",2023-05-03,"Survation",0.38
+"75",2023-05-02,"Redfield & Wilton",0.35
+"76",2023-04-20,"YouGov",0.37
+"77",2023-04-03,"Survation",0.4
+"78",2023-04-01,"Redfield & Wilton",0.36
+"79",2023-03-31,"Savanta",0.39
+"80",2023-03-30,"Panelbase",0.39
+"81",2023-03-13,"YouGov",0.39
+"82",2023-03-10,"Survation",0.4
+"83",2023-03-10,"Panelbase",0.4
+"84",2023-03-05,"Redfield & Wilton",0.39
+"85",2023-02-20,"YouGov",0.38
+"86",2023-02-17,"Savanta",0.42
+"87",2023-02-17,"Survation",0.43
+"88",2023-02-15,"YouGov",0.38
+"89",2023-02-07,"Survation",0.42
+"90",2023-01-26,"YouGov",0.42
+"91",2023-01-12,"Survation",0.43
+"92",2023-01-01,"Survation",0.44
+"93",2022-12-21,"Savanta",0.43
+"94",2022-12-09,"YouGov",0.43
+"95",2022-12-05,"Ipsos MORI",0.51
+"96",2022-11-27,"Redfield & Wilton",0.41
+"97",2022-10-11,"Panelbase",0.42
+"98",2022-10-07,"Panelbase",0.45
+"99",2022-10-04,"YouGov",0.45
+"100",2022-10-04,"ComRes",0.46
+"101",2022-09-29,"Survation",0.44
+"102",2022-08-19,"Panelbase",0.44
+"103",2022-07-01,"Panelbase",0.47
+"104",2022-06-28,"Savanta ComRes",0.46
+"105",2022-05-29,"Ipsos",0.44
+"106",2022-05-23,"YouGov",0.46
+"107",2022-04-29,"Panelbase",0.42
+"108",2022-03-31,"BMG",0.42
+"109",2022-03-28,"Survation",0.45
+"110",2022-02-04,"Panelbase",0.44
+"111",2021-12-22,"Opinium",0.48
+"112",2021-11-22,"YouGov",0.48
+"113",2021-11-12,"Panelbase",0.48
+"114",2021-10-26,"Panelbase",0.48
+"115",2021-09-10,"Panelbase",0.47
+"116",2021-09-08,"Opinium",0.51
+"117",2021-06-24,"Panelbase",0.47
+"118",2021-05-04,"YouGov",0.48
+"119",2021-05-04,"Survation",0.48
+"120",2021-05-03,"Opinium",0.47
+"121",2021-04-30,"BMG",0.48
+"122",2021-04-26,"Panelbase",0.45
+"123",2021-04-26,"Survation",0.46
+"124",2021-04-22,"Survation",0.47
+"125",2021-04-20,"YouGov",0.48
+"126",2021-04-06,"Opinium",0.5
+"127",2021-03-30,"Survation",0.49
+"128",2021-03-22,"YouGov",0.49
+"129",2021-03-19,"BMG",0.47
+"130",2021-03-18,"Survation",0.49
+"131",2021-03-16,"Opinium",0.5
+"132",2021-03-08,"YouGov",0.5
+"133",2021-02-26,"Survation",0.48
+"134",2021-01-13,"Survation",0.48
+"135",2020-12-09,"Survation",0.51
+"136",2020-11-11,"Panelbase",0.5
+"137",2020-11-10,"YouGov",0.53
+"138",2020-11-04,"Survation",0.52
+"139",2020-09-21,"JL Partners",0.56
+"140",2020-09-07,"Survation",0.51
+"141",2020-08-10,"YouGov",0.54
+"142",2020-07-03,"Panelbase",0.53
+"143",2020-06-05,"Panelbase",0.51
+"144",2020-05-05,"Panelbase",0.5
+"145",2020-04-27,"YouGov",0.51
+"146",2020-03-26,"Panelbase",0.48
+"147",2019-12-11,"Survation/The Courier",0.43
+"148",2019-12-10,"YouGov (MRP)",0.41
+"149",2019-12-06,"Panelbase/Sunday Times Archived 9 December 2019 at the Wayback Machine",0.39
+"150",2019-12-03,"YouGov/The Times",0.44
+"151",2019-11-25,"Ipsos MORI/STV",0.44
+"152",2019-11-22,"Panelbase/Sunday Times Archived 25 November 2019 at the Wayback Machine",0.4
+"153",2019-10-25,"YouGov",0.42
+"154",2019-10-11,"Panelbase/The Sunday Times Archived 29 August 2022 at the Wayback Machine",0.39
+"155",2019-09-03,"YouGov/The Times",0.43
+"156",2019-06-20,"Panelbase/The Sunday Times Archived 29 August 2022 at the Wayback Machine",0.38
+"157",2019-05-17,"Panelbase/The Sunday Times Archived 26 June 2019 at the Wayback Machine",0.38
+"158",2019-04-26,"YouGov/The Times",0.43
+"159",2019-04-24,"Panelbase/The Sunday Times Archived 23 May 2019 at the Wayback Machine",0.38
+"160",2019-04-23,"Survation/Scotland in Union",0.41
+"161",2019-03-06,"Panelbase/Wings Over Scotland",0.37
+"162",2019-03-04,"Survation/Scottish Daily Mail",0.4
+"163",2018-12-05,"Panelbase/The Sunday Times Archived 11 December 2018 at the Wayback Machine",0.37
+"164",2018-11-13,"Survation/Scotland in Union",0.39
+"165",2018-11-07,"Panelbase/Constitutional Commission Archived 20 November 2018 at the Wayback Machine",0.37
+"166",2018-11-02,"Survation/Channel 4",0.4
+"167",2018-10-21,"Survation/Daily Record",0.36
+"168",2018-10-05,"Survation/SNP",0.37
+"169",2018-10-04,"Panelbase/The Sunday Times Archived 9 October 2018 at the Wayback Machine",0.38
+"170",2018-10-02,"Survation/The Sunday Post",0.41
+"171",2018-07-10,"Survation/Daily Record",0.42
+"172",2018-06-26,"Panelbase/Wings Over Scotland",0.38
+"173",2018-06-13,"Panelbase/The Sunday Times",0.38
+"174",2018-06-05,"YouGov/The Times",0.4
+"175",2018-03-28,"Panelbase/The Sunday Times",0.36
+"176",2018-03-11,"Ipsos MORI/STV",0.39
+"177",2018-01-28,"Survation/Daily Record",0.39
+"178",2018-01-16,"YouGov/The Times",0.36
+"179",2017-12-05,"Survation/The Sunday Post",0.38
+"180",2017-11-30,"Survation/Daily Record",0.37
+"181",2017-10-05,"YouGov/The Times",0.4
+"182",2017-09-12,"Survation/Scottish Daily Mail",0.39
+"183",2017-09-07,"Panelbase/The Sunday Times",0.41
+"184",2017-06-07,"Survation/The Daily Record",0.39
+"185",2017-06-07,"Panelbase Archived 13 June 2017 at the Wayback Machine",0.41
+"186",2017-06-05,"YouGov/The Times",0.41
+"187",2017-06-02,"Survation/The Sunday Post",0.4
+"188",2017-05-31,"Panelbase/The Sunday Times",0.42
+"189",2017-05-27,"Ipsos-Mori/STV",0.43
+"190",2017-05-18,"YouGov/The Times",0.42
+"191",2017-05-18,"BMG/The Herald",0.43
+"192",2017-04-27,"YouGov/The Times",0.41
+"193",2017-04-21,"Survation/Sunday Post",0.43
+"194",2017-04-21,"Panelbase/The Sunday Times",0.44
+"195",2017-03-17,"Panelbase/The Sunday Times Archived 20 March 2017 at the Wayback Machine",0.47
+"196",2017-01-26,"Panelbase/The Sunday Times Archived 31 January 2017 at the Wayback Machine",0.47
+"197",2016-10-04,"BMG",0.49
+"198",2016-09-15,"Panelbase/The Sunday Times Archived 2 October 2016 at the Wayback Machine",0.47
+"199",2015-09-10,"Survation/Scottish Daily Mail",0.52
+"200",2015-07-07,"Survation/Scottish Daily Mail",0.51
+"201",2015-05-06,"Survation/Daily Record",0.46
+"202",2015-05-06,"YouGov/The Sun, The Times",0.48
+"203",2015-05-06,"Panelbase/Wings Over Scotland",0.48
+"204",2015-05-01,"YouGov/Sunday Times",0.49
+"205",2015-04-27,"Survation/Daily Record",0.51
+"206",2015-04-27,"Ipsos MORI/STV News",0.54
+"207",2015-04-23,"Panelbase/Sunday Times",0.48
+"208",2015-04-20,"YouGov/The Times",0.49
+"209",2015-04-19,"TNS",0.54
+"210",2015-04-09,"YouGov/The Times",0.49
+"211",2015-04-08,"TNS",0.52
+"212",2015-04-02,"Panelbase/Sunday Times",0.45
+"213",2015-03-31,"YouGov/Scottish Sun",0.46
+"214",2015-03-19,"ICM/The Guardian",0.43
+"215",2015-03-17,"Survation/Daily Record",0.47
+"216",2015-03-12,"YouGov/The Times",0.46
+"217",2015-03-10,"Survation/Unison Scotland",0.47
+"218",2015-02-22,"TNS",0.46
+"219",2015-02-17,"Survation/Daily Record",0.45
+"220",2015-02-02,"TNS[permanent dead link]",0.41
+"221",2015-02-02,"YouGov/The Times",0.48
+"222",2015-01-19,"Ipsos MORI/STV News",0.52
+"223",2015-01-16,"Survation/Daily Record",0.46
+"224",2015-01-14,"Panelbase/Sunday Times",0.41
+"225",2014-12-18,"ICM/The Guardian",0.43
+"226",2014-12-18,"Survation/Daily Record",0.48
+"227",2014-12-11,"YouGov/The Sun",0.47
+"228",2014-11-13,"Survation/Daily Record",0.46
+"229",2014-11-04,"Panelbase/Wings Over Scotland",0.45
+"230",2014-10-30,"YouGov/The Times",0.43
+"231",2014-10-29,"Ipsos Mori/STV",0.52
+"232",2014-10-01,"Panelbase/SNP",0.34
+"233",2014-07-08,"Survation/Daily Record",0.38
+"234",2014-06-26,"YouGov",0.31
+"235",2014-06-10,"Survation/Daily Record",0.4
+"236",2014-04-15,"Survation/Sunday Post",0.36
+"237",2014-04-07,"Survation/Daily Record",0.4
+"238",2014-03-07,"Survation/Daily Record",0.38
+"239",2014-02-18,"Survation/Daily Mail",0.38
+"240",2014-01-31,"Survation/Daily Mail",0.3
+"241",2013-10-08,"Lord Ashcroft",0.31
+"242",2013-05-09,"Lord Ashcroft",0.23
+"243",2012-10-28,"Lord Ashcroft",0.39
+"244",2012-07-20,"YouGov/Fabian Society",0.29
+"245",2012-05-21,"YouGov",0.35
+"246",2012-02-24,"YouGov",0.3
+"247",2011-04-29,"YouGov/Scotsman",0.28
+"248",2011-04-21,"YouGov",0.3
+"249",2011-04-15,"YouGov",0.28
+"250",2011-03-28,"YouGov",0.26
+"251",2010-10-20,"YouGov",0.26
+"252",2010-09-03,"YouGov",0.29
